@@ -1,5 +1,5 @@
 {
-  "name": "@windmillcode/quill-emoji",
+  "name": "quill-emoji",
   "version": "2.0.3000",
   "description": "Quill Extension for Emoji Selection",
   "main": "dist/quill-emoji.js",
